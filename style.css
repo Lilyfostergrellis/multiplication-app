@@ -31,3 +31,16 @@ body{
 .input::placeholder{
     color: lightgray;
 }
+
+.btn{
+    background-color: darkslategrey;
+    color: white;
+    border: none;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 5px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,.3);
+}
