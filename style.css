@@ -43,4 +43,14 @@ body{
     border-radius: 5px;
     margin: 5px 0;
     box-shadow: 0 2px 4px rgba(0,0,0,.3);
+    cursor: pointer;
+}
+
+.btn:hover{
+    filter: brightness(90%);
+}
+
+.score{
+    color: cadetblue;
+    text-align: right;
 }
