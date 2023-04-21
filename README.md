@@ -25,7 +25,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
+The following screenshot displays the webpage loaded on the browser:
 ![web application, snake game](./assets/multiplicationApplication.png)
 
 
